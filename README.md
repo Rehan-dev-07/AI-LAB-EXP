@@ -1,4 +1,4 @@
-﻿# 🤖 AI Lab Experiments
+# 🤖 AI Lab Experiments
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
@@ -171,7 +171,9 @@ AI-Lab-Experiments/
 
 ## 👤 Author
 
-**Ishaneswar Negi** — B.Tech Computer Science
+**Ishaneswar Negi**
+**Roll No:** 25CSEAIML282
+**Branch:** B.Tech Computer Science (AI & ML)
 
 ---
 
